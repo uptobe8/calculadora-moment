@@ -1,0 +1,12 @@
+{
+  "phone": "621 280 363",
+  "email": "momentenergia5.0@gmail.com",
+  "prices": {
+    "estufa": 125,
+    "caldera": 145,
+    "aspiradora": 59.95,
+    "ventilador": 149.95,
+    "desplazamientoHora": 25,
+    "km": 0.5
+  }
+}
